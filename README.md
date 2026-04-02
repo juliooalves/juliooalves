@@ -17,7 +17,7 @@ VMMMPVMMP" dMMMMMP dMMMMMP dMMMMMP VMMMP"  VMMMP" dMP dMP dMPdMMMMMP
 $ cat about.txt
 ```
 
-> Welcome, my name is **Júlio** and this is my **Development/Security Hub** —
+> My name is **Júlio** and this is my **Development/Security Hub** —
 > the place where I create brand new ideas and study real world cases.
 > Feel free to explore my profile!
 
