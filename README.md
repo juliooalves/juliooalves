@@ -2,12 +2,12 @@
 <div align="center">
 
 ```
-██╗██╗   ██╗██╗     ██╗ ██████╗
-██║██║   ██║██║     ██║██╔═══██╗
-██║██║   ██║██║     ██║██║   ██║
-██║██║   ██║██║     ██║██║   ██║
-██║╚██████╔╝███████╗██║╚██████╔╝
-╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
+    ██╗██╗   ██╗██╗     ██╗ ██████╗
+    ██║██║   ██║██║     ██║██╔═══██╗
+    ██║██║   ██║██║     ██║██║   ██║
+    ██║██║   ██║██║     ██║██║   ██║
+ ██╗██║╚██████╔╝███████╗██║╚██████╔╝
+    ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Student;Building+%26+Breaking+Things)](https://git.io/typing-svg)
@@ -83,11 +83,11 @@ $ cat about.txt
 
 <div align="center">
 
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliosobrinho&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliooalves&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosobrinho&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliooalves&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=juliosobrinho&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=juliooalves&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
@@ -108,10 +108,6 @@ $ ping júlio
 
 <div align="center">
 
-```
-[ system online ] — hack the planet 🌐
-```
-
-![Visitor Badge](https://visitor-badge.livelytics.com/badge?page_id=juliosobrinho.juliosobrinho)
+![Visitor Badge](https://visitor-badge.livelytics.com/badge?page_id=juliooalves.juliooalves)
 
 </div>
