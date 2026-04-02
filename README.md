@@ -7,10 +7,8 @@
     ██║██║   ██║██║     ██║██║   ██║
     ██║██║   ██║██║     ██║██║   ██║
   ████║╚██████╔╝███████╗██║╚██████╔╝
-  ═══╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
+  ════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Student;Building+%26+Breaking+Things)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -81,10 +79,6 @@ $ cat about.txt
 ## `> cat ./stats`
 
 <div align="center">
-
-![Júlio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliooalves&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliooalves&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=juliooalves&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
