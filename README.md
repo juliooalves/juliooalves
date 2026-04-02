@@ -84,7 +84,7 @@ $ cat about.txt
 
 ---
 
-## `> ./contact.sh`
+## `> ./contact`
 
 ```bash
 $ ping júlio
