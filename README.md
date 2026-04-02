@@ -1,14 +1,14 @@
 <!-- Header -->
 <div align="center">
 
-
+```
     ██╗██╗   ██╗██╗     ██╗ ██████╗
     ██║██║   ██║██║     ██║██╔═══██╗
     ██║██║   ██║██║     ██║██║   ██║
     ██║██║   ██║██║     ██║██║   ██║
- ██╗██║╚██████╔╝███████╗██║╚██████╔╝
-    ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
-
+  ████║╚██████╔╝███████╗██║╚██████╔╝
+  ═══╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
+```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Student;Building+%26+Breaking+Things)](https://git.io/typing-svg)
 
 </div>
