@@ -108,6 +108,6 @@ $ ping júlio
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.livelytics.com/badge?page_id=juliooalves.juliooalves)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves&labelColor=%23f47373&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves)
 
 </div>
