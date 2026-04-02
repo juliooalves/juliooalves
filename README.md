@@ -80,6 +80,9 @@ $ cat about.txt
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=juliooalves&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves&labelColor=%23f47373&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves)
+
 </div>
 
 ---
@@ -95,10 +98,3 @@ $ ping júlio
 | 📧 Email | [juliosobrinho2015@gmail.com](mailto:juliosobrinho2015@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/julio-alves-dev](https://linkedin.com/in/julio-alves-dev/) |
 
----
-
-<div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves&labelColor=%23f47373&countColor=%23555555)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjuliooalves%2Fjuliooalves)
-
-</div>
