@@ -1,4 +1,3 @@
-## Júlio Alves
 
 Developer & Security enthusiast. Building ideas, studying real-world cases.
 
