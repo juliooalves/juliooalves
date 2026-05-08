@@ -21,4 +21,4 @@ Developer & Security enthusiast. Building ideas, studying real-world cases.
 
 ---
 
-juliosobrinho2015@gmail.com · [linkedin.com/in/julio-alves-dev](https://linkedin.com/in/julio-alves-dev/)
+juliooalves73@gmail.com · [linkedin.com/in/julio-alves-dev](https://linkedin.com/in/julio-alves-dev/)
